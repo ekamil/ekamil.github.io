@@ -1,0 +1,217 @@
+\section{Kamil Essekkat}
+
+\subsection{Personal}
+
+\ctable[pos = H, center, botcap]{ll}
+{% notes
+}
+{% rows
+\FL
+\parbox[t]{0.26\columnwidth}{\raggedright
+Date of birth
+} & \parbox[t]{0.72\columnwidth}{\raggedright
+16.03.1990
+}
+\\\noalign{\medskip}
+\parbox[t]{0.26\columnwidth}{\raggedright
+Phone
+} & \parbox[t]{0.72\columnwidth}{\raggedright
++48 501 196 255
+}
+\\\noalign{\medskip}
+\parbox[t]{0.26\columnwidth}{\raggedright
+E-mail
+} & \parbox[t]{0.72\columnwidth}{\raggedright
+\href{mailto:kamil@essekkat.pl}{kamil@essekkat.pl}
+}
+\LL
+}
+
+Source:
+\href{http://essekkat.pl/\#cv-en}{\href{http://essekkat.pl/\#cv-en}{http://essekkat.pl/\#cv-en}}
+
+\subsection{Work experience}
+
+\textbf{since 05.2014: Cyfrowy Polsat} - Python programmer
+
+\begin{itemize}
+\item
+  Planning and creating new payment-processing application
+\item
+  Designing architecture for availability and maintainability
+\item
+  Integrating with both external and internal systems
+\item
+  Piloting use of Event Sourcing and Domain Driven Design
+\item
+  Documenting processes in BPMN, keeping documentation up-to-date
+\item
+  Automating tests in SoapUI for JSON-RPC and SOAP interfaces
+\item
+  Working on a sizeable Django-based backend system
+\item
+  Performance tuning of new features - on application and DB levels
+\item
+  Maintaining quality of the code (unittests, pep8 compliance)
+\item
+  Taking care of Jenkins CI jobs
+\end{itemize}
+
+\textbf{10.2010 - 04.2014: Accenture} -- member of Technical
+Architecture Team
+
+\begin{itemize}
+\item
+  Maintenance and development of project's internal tools (Python, bash)
+\item
+  Extending code deployment tool (Python) integrated with Trac and SVN
+\item
+  Maintenance over applications built upon JBoss and OracleDB stack
+\item
+  Automating tests (GUI and WebService), also within Grinder framework
+\item
+  Setting up test environments and providing support
+\item
+  Gathering performance requirements from business users and processing
+  them into measurable terms
+\item
+  Estimating time and work needed for tests; planning test execution
+\item
+  Manual testing as a prerequisite of automatic tests
+\item
+  Setting up monitoring (snmpd, Zenoss)
+\item
+  Performance tuning of OracleDB (both on query and instance levels) and
+  of JVM
+\item
+  Working closely with Development team on identifying and fixing
+  performance bottlenecks
+\item
+  Reporting tests' results, including writing final reports
+\item
+  Creating build pipelines around Subversion and Jenkins
+\item
+  Integrating OpenLDAP onto existing project's infrastructure with
+  continued service availability
+\item
+  Working closely with Development and Test teams on adjusting the
+  development/release process
+\end{itemize}
+
+\subsection{Freelance work}
+
+\textbf{2014: Catland.pl, Pandaland.pl}
+
+\begin{itemize}
+\item
+  Django backend
+\item
+  Implementing client's vision of the frontend using HTML, Sass and
+  CoffeeScript
+\item
+  Automation of deployment on Amazon EC2
+\item
+  Performance tuning on both backend and frontend site
+\end{itemize}
+
+\textbf{2014: ZjedzmyRazem.pl}
+
+\begin{itemize}
+\item
+  Writing backend using Django
+\item
+  Integration with third-party layout
+\end{itemize}
+
+\textbf{2010: wcinamy.pl}
+
+Wcinamy.pl was meant to help find restaurants in a distance-aware way.
+Note: site as written by me is now defunct
+
+\begin{itemize}
+\item
+  Creating Django site from scratch including static parts (HTML/CSS/JS)
+\item
+  Integrating Google Maps JavaScript API
+\item
+  Setting up Subversion with Trac
+\item
+  Collecting and implementing change requests from other team members
+\item
+  Formalizing requirements and development process
+\end{itemize}
+
+\subsection{Education}
+
+\begin{description}
+\item[2009 -- 2012]
+Unfinished Bachelor studies at Warsaw School of Economics, Quantitative
+Methods in Economics and Information Systems.
+\item[2006 -- 2009]
+VI High school in Sosnowiec, core subjects: maths, geography
+\end{description}
+
+\subsection{Foreign languages}
+
+\ctable[pos = H, center, botcap]{ll}
+{% notes
+}
+{% rows
+\FL
+\parbox[t]{0.25\columnwidth}{\raggedright
+\textbf{English}
+} & \parbox[t]{0.21\columnwidth}{\raggedright
+fluent
+}
+\\\noalign{\medskip}
+\parbox[t]{0.25\columnwidth}{\raggedright
+\textbf{German}
+} & \parbox[t]{0.21\columnwidth}{\raggedright
+basic
+}
+\\\noalign{\medskip}
+\parbox[t]{0.25\columnwidth}{\raggedright
+\textbf{Norwegian}
+} & \parbox[t]{0.21\columnwidth}{\raggedright
+basic
+}
+\LL
+}
+
+\subsection{Skills}
+
+\begin{description}
+\item[Programming languages]
+Python, sh, SQL, Java, PL/SQL, Lua
+\item[Operating systems]
+GNU/Linux, Windows, AIX
+\item[Code management/Development]
+Redmine, Trac, Git, SVN, \href{http://jenkins-ci.org/}{Jenkins CI},
+\href{http://www.sonatype.org/nexus/}{Sonatype Nexus},
+\href{http://www.sonarqube.org/}{SonarQube}, Maven, Ant
+\item[Databases]
+Oracle, PostgreSQL, Redis, ElasticSearch
+\item[Load testing]
+\href{http://grinder.sourceforge.net/}{Grinder}, Oracle AWR, SoapUI
+\item[Other]
+OpenLdap, WebMethods Integration Server, Wildfly/JBoss, Tomcat, Red Hat
+Cluster Suite, \href{http://www.zenoss.com/}{Zenoss}
+\end{description}
+
+Basic knowledge of \emph{SAP} and \emph{Oracle BRM} from operations
+perspective.
+
+\subsection{Academic activity}
+
+\textbf{2009 - 2010} Activity in Student Association for Computer
+Science at WSE (\href{http://www.skni.org/}{SKNI})
+
+\begin{itemize}
+\item
+  Co-organisation of the OpenMind conference
+\item
+  Teaching fellow students Python and MS Access as part of
+  \href{http://was.skni.org/}{Warsztaty@SKNI}.
+\item
+  Co-creation of \href{http://www.skni.org/}{SKNI} website (Joomla)
+\end{itemize}

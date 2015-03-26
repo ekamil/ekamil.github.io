@@ -1,0 +1,209 @@
+\section{Kamil Essekkat}
+
+\subsection{Dane osobowe}
+
+\ctable[pos = H, center, botcap]{ll}
+{% notes
+}
+{% rows
+\FL
+\parbox[t]{0.26\columnwidth}{\raggedright
+Data urodzenia
+} & \parbox[t]{0.72\columnwidth}{\raggedright
+16.03.1990
+}
+\\\noalign{\medskip}
+\parbox[t]{0.26\columnwidth}{\raggedright
+Tel.
+} & \parbox[t]{0.72\columnwidth}{\raggedright
++48 501 196 255
+}
+\\\noalign{\medskip}
+\parbox[t]{0.26\columnwidth}{\raggedright
+E-mail
+} & \parbox[t]{0.72\columnwidth}{\raggedright
+\href{mailto:kamil@essekkat.pl}{kamil@essekkat.pl}
+}
+\LL
+}
+
+Źródło:
+\href{http://essekkat.pl/\#cv-pl}{\href{http://essekkat.pl/\#cv-pl}{http://essekkat.pl/\#cv-pl}}
+
+\subsection{Doświadczenie}
+
+\textbf{od 05.2014: Cyfrowy Polsat} - programista Python
+
+\begin{itemize}
+\item
+  Planowanie, projektowanie i tworzenie nowej aplikacji do przetwarzania
+  płatności
+\item
+  Integracja z systemami wewnętrznymi i zewnętrznymi
+\item
+  Pilotażowe wdrożenie Event Sourcing i Domain Driven Design
+\item
+  Tworzenie dokumentacji procesów z użyciem BPMN
+\item
+  Automatyzacja testów w SoapUI dla interfejsów SOAP i JSON-RPC
+\item
+  Rozwój i utrzymanie dużego systemu opartego na Django
+\item
+  Tuning wydajności nowych funkcjonalności na poziomie aplikacji i bazy
+\item
+  Utrzymanie jakości kodu (unittesty, pep8)
+\item
+  Utrzymanie Jenkins CI
+\end{itemize}
+
+\textbf{10.2010 - 04.2014: Accenture} -- członek zespołu architektury
+technicznej i infrastruktury
+
+\begin{itemize}
+\item
+  Rozwój i utrzymanie wewnętrznych narzędzi (Python, bash)
+\item
+  Rozwój wewnętrznego narzędzia deploymentu (Python) zintegrowanego z
+  Subversion i Trac
+\item
+  Automatyzacja testów GUI oraz WebService'ów, również z użyciem Grinder
+\item
+  Nadzór nad aplikacjami opartymi o platformę JBoss i bazę OracleDB
+\item
+  Setup i wsparcie środowisk
+\item
+  Prowadzenie testów wydajnościowych - przygotowanie, automatyzacja,
+  raportowanie
+\item
+  Planowanie i szacowanie czasochłonności testów
+\item
+  Monitoring środowisk (snmpd, Zenoss)
+\item
+  Tuning wydajności bazy danych Oracle (ustawień i zapytań) oraz JVM
+\item
+  Współpraca z innymi zespołami przy identyfikacji i rozwiązywaniu
+  problemów wydajnościowych
+\item
+  Raportowanie wyników i wniosków z testów do zlecających
+\item
+  Integracja zewnętrznych systemów CI, QA z infrastrukturą projektów
+\item
+  Integracja OpenLdap z infrastrukturą projektów
+\end{itemize}
+
+\subsection{Freelance}
+
+\textbf{2014: Catland.pl, Pandaland.pl}
+
+\begin{itemize}
+\item
+  Backend w Django
+\item
+  Implementacja frontendu na podstawie projektu graficznego
+\item
+  Wdrożenie z użyciem Amazon EC2 i CloudFront
+\item
+  Tuning wydajności (również zagadnienia wyłączeni frontendowe)
+\end{itemize}
+
+\textbf{2014: ZjedzmyRazem.pl}
+
+\begin{itemize}
+\item
+  Backend w Django
+\item
+  Integracja z dostarczonym frontendem
+\end{itemize}
+
+\textbf{2010: wcinamy.pl} -- developer Python oraz JavaScript
+
+Tworzenie wyszukiwarki punktów gastronomicznych opartej o Django.
+
+\begin{itemize}
+\item
+  Utworzenie strony w Django wraz z frontendem (HTML/CSS/JS)
+\item
+  Integracja z API Google Maps
+\item
+  Setup narzędzi do zarządzania kodem: Subversion+Trac
+\item
+  Uporządkowanie procesu zarządzania zmianą
+\end{itemize}
+
+\subsection{Wykształcenie}
+
+\begin{description}
+\item[2009 -- 2012]
+Nieukończone studia stacjonarne licencjackie w Szkole Głównej Handlowej
+w Warszawie na kierunku Metody Ilościowe w Ekonomii i Systemy
+Informacyjne
+\item[2006 -- 2009]
+VI Niepubliczne Liceum w Sosnowcu, profil mat.-geo.
+\end{description}
+
+\subsection{Języki obce}
+
+\ctable[pos = H, center, botcap]{ll}
+{% notes
+}
+{% rows
+\FL
+\parbox[t]{0.25\columnwidth}{\raggedright
+\textbf{Angielski}
+} & \parbox[t]{0.21\columnwidth}{\raggedright
+biegle
+}
+\\\noalign{\medskip}
+\parbox[t]{0.25\columnwidth}{\raggedright
+\textbf{Niemiecki}
+} & \parbox[t]{0.21\columnwidth}{\raggedright
+podstawowy
+}
+\\\noalign{\medskip}
+\parbox[t]{0.25\columnwidth}{\raggedright
+\textbf{Norweski}
+} & \parbox[t]{0.21\columnwidth}{\raggedright
+podstawowy
+}
+\LL
+}
+
+\subsection{Umiejętności}
+
+\begin{description}
+\item[Języki programowania]
+Python, sh, SQL, Java, PL/SQL, Lua
+\item[Systemy operacyjne]
+GNU/Linux, Windows, AIX
+\item[Zarządzanie kodem]
+Redmine, Trac, Git, SVN, Mercurial,
+\href{http://jenkins-ci.org/}{Jenkins CI},
+\href{http://www.sonatype.org/nexus/}{Sonatype Nexus},
+\href{http://www.sonarqube.org/}{SonarQube}, Maven, Ant
+\item[Bazy danych]
+Oracle, PostgreSQL, Redis, ElasticSearch
+\item[Testy wydajnościowe]
+\href{http://grinder.sourceforge.net/}{Grinder}, Oracle AWR, SoapUI
+\item[Pozostałe]
+OpenLdap, WebMethods Integration Server, Wildfly/JBoss, Tomcat, Red Hat
+Cluster Suite, \href{http://www.zenoss.com/}{Zenoss}
+\end{description}
+
+Podstawowa znajomość \emph{SAP} oraz \emph{Oracle BRM} od strony
+instalacji i konfiguracji środowisk testowych.
+
+\subsection{Działalność studencka}
+
+\textbf{2009 -- 2010} Członkostwo w Studenckim Kole Naukowym Informatyki
+Szkoły Głównej Handlowej w Warszawie (\href{http://www.skni.org/}{SKNI})
+
+\begin{itemize}
+\item
+  Prowadzenie kursów Pythona i MS Access w ramach Warsztatów@SKNI
+  (\href{http://was.skni.org/}{WAS})
+\item
+  Współorganizacja konferencji OpenMind
+\item
+  Współtworzenie strony głównej \href{http://www.skni.org/}{SKNI}
+  (Joomla)
+\end{itemize}
