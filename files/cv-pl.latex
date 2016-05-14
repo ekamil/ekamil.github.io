@@ -1,40 +1,39 @@
-\section{Kamil Essekkat}
+\section{Kamil Essekkat}\label{kamil-essekkat}
 
-\subsection{Dane osobowe}
+\subsection{Dane osobowe}\label{dane-osobowe}
 
-\ctable[pos = H, center, botcap]{ll}
-{% notes
-}
-{% rows
-\FL
-\parbox[t]{0.26\columnwidth}{\raggedright
+\begin{longtable}[c]{@{}ll@{}}
+\toprule\addlinespace
+\begin{minipage}[t]{0.25\columnwidth}\raggedright
 Data urodzenia
-} & \parbox[t]{0.72\columnwidth}{\raggedright
+\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright
 16.03.1990
-}
-\\\noalign{\medskip}
-\parbox[t]{0.26\columnwidth}{\raggedright
+\end{minipage}
+\\\addlinespace
+\begin{minipage}[t]{0.25\columnwidth}\raggedright
 Tel.
-} & \parbox[t]{0.72\columnwidth}{\raggedright
+\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright
 +48 501 196 255
-}
-\\\noalign{\medskip}
-\parbox[t]{0.26\columnwidth}{\raggedright
+\end{minipage}
+\\\addlinespace
+\begin{minipage}[t]{0.25\columnwidth}\raggedright
 E-mail
-} & \parbox[t]{0.72\columnwidth}{\raggedright
+\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright
 \href{mailto:kamil@essekkat.pl}{kamil@essekkat.pl}
-}
-\LL
-}
+\end{minipage}
+\\\addlinespace
+\bottomrule
+\end{longtable}
 
 Źródło:
-\href{http://essekkat.pl/\#cv-pl}{\href{http://essekkat.pl/\#cv-pl}{http://essekkat.pl/\#cv-pl}}
+\href{http://essekkat.pl/\#cv-pl}{\url{http://essekkat.pl/\#cv-pl}}
 
-\subsection{Doświadczenie}
+\subsection{Doświadczenie}\label{doux15bwiadczenie}
 
-\textbf{od 05.2014: Cyfrowy Polsat} - programista Python
+\textbf{od 05.2014: Cyfrowy Polsat} - software developer
 
 \begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
 \item
   Planowanie, projektowanie i tworzenie nowej aplikacji do przetwarzania
   płatności
@@ -60,6 +59,7 @@ E-mail
 technicznej i infrastruktury
 
 \begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
 \item
   Rozwój i utrzymanie wewnętrznych narzędzi (Python, bash)
 \item
@@ -91,11 +91,12 @@ technicznej i infrastruktury
   Integracja OpenLdap z infrastrukturą projektów
 \end{itemize}
 
-\subsection{Freelance}
+\subsection{Freelance}\label{freelance}
 
 \textbf{2014: Catland.pl, Pandaland.pl}
 
 \begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
 \item
   Backend w Django
 \item
@@ -109,6 +110,7 @@ technicznej i infrastruktury
 \textbf{2014: ZjedzmyRazem.pl}
 
 \begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
 \item
   Backend w Django
 \item
@@ -120,6 +122,7 @@ technicznej i infrastruktury
 Tworzenie wyszukiwarki punktów gastronomicznych opartej o Django.
 
 \begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
 \item
   Utworzenie strony w Django wraz z frontendem (HTML/CSS/JS)
 \item
@@ -130,7 +133,7 @@ Tworzenie wyszukiwarki punktów gastronomicznych opartej o Django.
   Uporządkowanie procesu zarządzania zmianą
 \end{itemize}
 
-\subsection{Wykształcenie}
+\subsection{Wykształcenie}\label{wyksztaux142cenie}
 
 \begin{description}
 \item[2009 -- 2012]
@@ -141,34 +144,32 @@ Informacyjne
 VI Niepubliczne Liceum w Sosnowcu, profil mat.-geo.
 \end{description}
 
-\subsection{Języki obce}
+\subsection{Języki obce}\label{jux119zyki-obce}
 
-\ctable[pos = H, center, botcap]{ll}
-{% notes
-}
-{% rows
-\FL
-\parbox[t]{0.25\columnwidth}{\raggedright
+\begin{longtable}[c]{@{}ll@{}}
+\toprule\addlinespace
+\begin{minipage}[t]{0.24\columnwidth}\raggedright
 \textbf{Angielski}
-} & \parbox[t]{0.21\columnwidth}{\raggedright
+\end{minipage} & \begin{minipage}[t]{0.20\columnwidth}\raggedright
 biegle
-}
-\\\noalign{\medskip}
-\parbox[t]{0.25\columnwidth}{\raggedright
+\end{minipage}
+\\\addlinespace
+\begin{minipage}[t]{0.24\columnwidth}\raggedright
 \textbf{Niemiecki}
-} & \parbox[t]{0.21\columnwidth}{\raggedright
+\end{minipage} & \begin{minipage}[t]{0.20\columnwidth}\raggedright
 podstawowy
-}
-\\\noalign{\medskip}
-\parbox[t]{0.25\columnwidth}{\raggedright
+\end{minipage}
+\\\addlinespace
+\begin{minipage}[t]{0.24\columnwidth}\raggedright
 \textbf{Norweski}
-} & \parbox[t]{0.21\columnwidth}{\raggedright
+\end{minipage} & \begin{minipage}[t]{0.20\columnwidth}\raggedright
 podstawowy
-}
-\LL
-}
+\end{minipage}
+\\\addlinespace
+\bottomrule
+\end{longtable}
 
-\subsection{Umiejętności}
+\subsection{Umiejętności}\label{umiejux119tnoux15bci}
 
 \begin{description}
 \item[Języki programowania]
@@ -192,14 +193,17 @@ Cluster Suite, \href{http://www.zenoss.com/}{Zenoss}
 Podstawowa znajomość \emph{SAP} oraz \emph{Oracle BRM} od strony
 instalacji i konfiguracji środowisk testowych.
 
-\subsection{Działalność studencka}
+\subsection{Działalność
+studencka}\label{dziaux142alnoux15bux107-studencka}
 
 \textbf{2009 -- 2010} Członkostwo w Studenckim Kole Naukowym Informatyki
 Szkoły Głównej Handlowej w Warszawie (\href{http://www.skni.org/}{SKNI})
 
 \begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
 \item
-  Prowadzenie kursów Pythona i MS Access w ramach Warsztatów@SKNI
+  Prowadzenie kursów Pythona i MS Access w ramach
+  \href{mailto:Warsztatów@SKNI}{Warsztatów@SKNI}
   (\href{http://was.skni.org/}{WAS})
 \item
   Współorganizacja konferencji OpenMind
