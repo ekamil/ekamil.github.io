@@ -2,26 +2,23 @@
 
 \subsection{Personal}\label{personal}
 
-\begin{longtable}[c]{@{}ll@{}}
-\toprule\addlinespace
-\begin{minipage}[t]{0.25\columnwidth}\raggedright
-Date of birth
-\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright
-16.03.1990
-\end{minipage}
-\\\addlinespace
-\begin{minipage}[t]{0.25\columnwidth}\raggedright
-Phone
-\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright
-+48 501 196 255
-\end{minipage}
-\\\addlinespace
-\begin{minipage}[t]{0.25\columnwidth}\raggedright
-E-mail
-\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright
-\href{mailto:kamil@essekkat.pl}{kamil@essekkat.pl}
-\end{minipage}
-\\\addlinespace
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+\begin{minipage}[t]{0.25\columnwidth}\raggedright\strut
+Date of birth\strut
+\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright\strut
+16.03.1990\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.25\columnwidth}\raggedright\strut
+Phone\strut
+\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright\strut
++48 501 196 255\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.25\columnwidth}\raggedright\strut
+E-mail\strut
+\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright\strut
+\href{mailto:kamil@essekkat.pl}{\nolinkurl{kamil@essekkat.pl}}\strut
+\end{minipage}\tabularnewline
 \bottomrule
 \end{longtable}
 
@@ -30,7 +27,18 @@ Source:
 
 \subsection{Work experience}\label{work-experience}
 
-\textbf{since 05.2014: Cyfrowy Polsat} -- Software Developer
+\textbf{since 05.2016: Clear2Pay Poland} - Non-Functional/Performance
+Engineer
+
+\begin{itemize}
+\tightlist
+\item
+  Evaluating performance of a Java EE product
+\item
+  Development of internal Java based tools
+\end{itemize}
+
+\textbf{05.2014 - 04.2016: Cyfrowy Polsat} -- Software Developer
 
 \begin{enumerate}
 \def\labelenumi{\Alph{enumi}.}
@@ -39,7 +47,7 @@ Source:
 
   \begin{quote}
   \begin{itemize}
-  \itemsep1pt\parskip0pt\parsep0pt
+  \tightlist
   \item
     Initial domain modelling and requirements gathering
   \item
@@ -62,7 +70,7 @@ Source:
 
   \begin{quote}
   \begin{itemize}
-  \itemsep1pt\parskip0pt\parsep0pt
+  \tightlist
   \item
     Leading the use of Event Sourcing and Domain Driven Design
   \item
@@ -86,7 +94,7 @@ Source:
 Architecture Team
 
 \begin{itemize}
-\itemsep1pt\parskip0pt\parsep0pt
+\tightlist
 \item
   Maintenance and development of project's internal tools (Python, bash)
 \item
@@ -126,10 +134,12 @@ Architecture Team
 
 \subsection{Freelance work}\label{freelance-work}
 
+Couple of short-lived Django based projects.
+
 \textbf{2014: Catland.pl, Pandaland.pl}
 
 \begin{itemize}
-\itemsep1pt\parskip0pt\parsep0pt
+\tightlist
 \item
   Django backend
 \item
@@ -144,7 +154,7 @@ Architecture Team
 \textbf{2014: ZjedzmyRazem.pl}
 
 \begin{itemize}
-\itemsep1pt\parskip0pt\parsep0pt
+\tightlist
 \item
   Writing backend using Django
 \item
@@ -157,7 +167,7 @@ Wcinamy.pl was meant to help find restaurants in a distance-aware way.
 Note: site as written by me is now defunct
 
 \begin{itemize}
-\itemsep1pt\parskip0pt\parsep0pt
+\tightlist
 \item
   Creating Django site from scratch including static parts (HTML/CSS/JS)
 \item
@@ -180,28 +190,25 @@ Methods in Economics and Information Systems.
 VI High school in Sosnowiec, core subjects: maths, geography
 \end{description}
 
-\subsection{Foreign languages}\label{foreign-languages}
+\subsection{Spoken languages}\label{spoken-languages}
 
-\begin{longtable}[c]{@{}ll@{}}
-\toprule\addlinespace
-\begin{minipage}[t]{0.24\columnwidth}\raggedright
-\textbf{English}
-\end{minipage} & \begin{minipage}[t]{0.20\columnwidth}\raggedright
-fluent
-\end{minipage}
-\\\addlinespace
-\begin{minipage}[t]{0.24\columnwidth}\raggedright
-\textbf{German}
-\end{minipage} & \begin{minipage}[t]{0.20\columnwidth}\raggedright
-basic
-\end{minipage}
-\\\addlinespace
-\begin{minipage}[t]{0.24\columnwidth}\raggedright
-\textbf{Norwegian}
-\end{minipage} & \begin{minipage}[t]{0.20\columnwidth}\raggedright
-basic
-\end{minipage}
-\\\addlinespace
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+\begin{minipage}[t]{0.24\columnwidth}\raggedright\strut
+\textbf{Polish}\strut
+\end{minipage} & \begin{minipage}[t]{0.20\columnwidth}\raggedright\strut
+native\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.24\columnwidth}\raggedright\strut
+\textbf{English}\strut
+\end{minipage} & \begin{minipage}[t]{0.20\columnwidth}\raggedright\strut
+fluent\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.24\columnwidth}\raggedright\strut
+\textbf{German}\strut
+\end{minipage} & \begin{minipage}[t]{0.20\columnwidth}\raggedright\strut
+basic\strut
+\end{minipage}\tabularnewline
 \bottomrule
 \end{longtable}
 
@@ -221,12 +228,11 @@ PostgreSQL,Oracle, Redis, ElasticSearch
 \item[Load testing]
 SoapUI, \href{http://grinder.sourceforge.net/}{Grinder}, Oracle AWR
 \item[Other]
-OpenLdap, WebMethods Integration Server, Wildfly/JBoss, Tomcat, Red Hat
-Cluster Suite, \href{http://www.zenoss.com/}{Zenoss}, Docker
+Docker, OpenLdap, WebMethods Integration Server, Wildfly/JBoss, Tomcat,
+Red Hat Cluster Suite, \href{http://www.zenoss.com/}{Zenoss}
 \end{description}
 
-Basic knowledge of \emph{SAP} and \emph{Oracle BRM} from operations
-perspective.
+Basic knowledge of \emph{SAP} from operations perspective.
 
 \subsection{Academic activity}\label{academic-activity}
 
@@ -234,12 +240,12 @@ perspective.
 Science at WSE (\href{http://www.skni.org/}{SKNI})
 
 \begin{itemize}
-\itemsep1pt\parskip0pt\parsep0pt
+\tightlist
 \item
   Co-organisation of the OpenMind conference
 \item
   Teaching fellow students Python and MS Access as part of
-  \href{http://was.skni.org/}{\href{mailto:Warsztaty@SKNI}{Warsztaty@SKNI}}.
+  \href{http://was.skni.org/}{\href{mailto:Warsztaty@SKNI}{\nolinkurl{Warsztaty@SKNI}}}.
 \item
   Co-creation of \href{http://www.skni.org/}{SKNI} website (Joomla)
 \end{itemize}

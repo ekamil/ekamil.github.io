@@ -2,26 +2,23 @@
 
 \subsection{Dane osobowe}\label{dane-osobowe}
 
-\begin{longtable}[c]{@{}ll@{}}
-\toprule\addlinespace
-\begin{minipage}[t]{0.25\columnwidth}\raggedright
-Data urodzenia
-\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright
-16.03.1990
-\end{minipage}
-\\\addlinespace
-\begin{minipage}[t]{0.25\columnwidth}\raggedright
-Tel.
-\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright
-+48 501 196 255
-\end{minipage}
-\\\addlinespace
-\begin{minipage}[t]{0.25\columnwidth}\raggedright
-E-mail
-\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright
-\href{mailto:kamil@essekkat.pl}{kamil@essekkat.pl}
-\end{minipage}
-\\\addlinespace
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+\begin{minipage}[t]{0.25\columnwidth}\raggedright\strut
+Data urodzenia\strut
+\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright\strut
+16.03.1990\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.25\columnwidth}\raggedright\strut
+Tel.\strut
+\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright\strut
++48 501 196 255\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.25\columnwidth}\raggedright\strut
+E-mail\strut
+\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright\strut
+\href{mailto:kamil@essekkat.pl}{\nolinkurl{kamil@essekkat.pl}}\strut
+\end{minipage}\tabularnewline
 \bottomrule
 \end{longtable}
 
@@ -30,10 +27,21 @@ E-mail
 
 \subsection{Doświadczenie}\label{doux15bwiadczenie}
 
-\textbf{od 05.2014: Cyfrowy Polsat} - software developer
+\textbf{since 05.2016: Clear2Pay Poland} - Non-Functional/Performance
+Engineer
 
 \begin{itemize}
-\itemsep1pt\parskip0pt\parsep0pt
+\tightlist
+\item
+  Ewaluacja wydajności produktu opartego na Java EE
+\item
+  Rozwój wewnętrznych narzędzi (Java)
+\end{itemize}
+
+\textbf{05.2014 - 04.2016: Cyfrowy Polsat} -- Software Developer
+
+\begin{itemize}
+\tightlist
 \item
   Planowanie, projektowanie i tworzenie nowej aplikacji do przetwarzania
   płatności
@@ -59,7 +67,7 @@ E-mail
 technicznej i infrastruktury
 
 \begin{itemize}
-\itemsep1pt\parskip0pt\parsep0pt
+\tightlist
 \item
   Rozwój i utrzymanie wewnętrznych narzędzi (Python, bash)
 \item
@@ -93,10 +101,12 @@ technicznej i infrastruktury
 
 \subsection{Freelance}\label{freelance}
 
+Kilka opartych na Django, krótko żyjączych projektów.
+
 \textbf{2014: Catland.pl, Pandaland.pl}
 
 \begin{itemize}
-\itemsep1pt\parskip0pt\parsep0pt
+\tightlist
 \item
   Backend w Django
 \item
@@ -110,7 +120,7 @@ technicznej i infrastruktury
 \textbf{2014: ZjedzmyRazem.pl}
 
 \begin{itemize}
-\itemsep1pt\parskip0pt\parsep0pt
+\tightlist
 \item
   Backend w Django
 \item
@@ -122,7 +132,7 @@ technicznej i infrastruktury
 Tworzenie wyszukiwarki punktów gastronomicznych opartej o Django.
 
 \begin{itemize}
-\itemsep1pt\parskip0pt\parsep0pt
+\tightlist
 \item
   Utworzenie strony w Django wraz z frontendem (HTML/CSS/JS)
 \item
@@ -146,26 +156,18 @@ VI Niepubliczne Liceum w Sosnowcu, profil mat.-geo.
 
 \subsection{Języki obce}\label{jux119zyki-obce}
 
-\begin{longtable}[c]{@{}ll@{}}
-\toprule\addlinespace
-\begin{minipage}[t]{0.24\columnwidth}\raggedright
-\textbf{Angielski}
-\end{minipage} & \begin{minipage}[t]{0.20\columnwidth}\raggedright
-biegle
-\end{minipage}
-\\\addlinespace
-\begin{minipage}[t]{0.24\columnwidth}\raggedright
-\textbf{Niemiecki}
-\end{minipage} & \begin{minipage}[t]{0.20\columnwidth}\raggedright
-podstawowy
-\end{minipage}
-\\\addlinespace
-\begin{minipage}[t]{0.24\columnwidth}\raggedright
-\textbf{Norweski}
-\end{minipage} & \begin{minipage}[t]{0.20\columnwidth}\raggedright
-podstawowy
-\end{minipage}
-\\\addlinespace
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+\begin{minipage}[t]{0.24\columnwidth}\raggedright\strut
+\textbf{Angielski}\strut
+\end{minipage} & \begin{minipage}[t]{0.20\columnwidth}\raggedright\strut
+biegle\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.24\columnwidth}\raggedright\strut
+\textbf{Niemiecki}\strut
+\end{minipage} & \begin{minipage}[t]{0.20\columnwidth}\raggedright\strut
+podstawowy\strut
+\end{minipage}\tabularnewline
 \bottomrule
 \end{longtable}
 
@@ -186,8 +188,8 @@ Oracle, PostgreSQL, Redis, ElasticSearch
 \item[Testy wydajnościowe]
 \href{http://grinder.sourceforge.net/}{Grinder}, Oracle AWR, SoapUI
 \item[Pozostałe]
-OpenLdap, WebMethods Integration Server, Wildfly/JBoss, Tomcat, Red Hat
-Cluster Suite, \href{http://www.zenoss.com/}{Zenoss}
+Docker, OpenLdap, WebMethods Integration Server, Wildfly/JBoss, Tomcat,
+Red Hat Cluster Suite, \href{http://www.zenoss.com/}{Zenoss}
 \end{description}
 
 Podstawowa znajomość \emph{SAP} oraz \emph{Oracle BRM} od strony
@@ -200,10 +202,10 @@ studencka}\label{dziaux142alnoux15bux107-studencka}
 Szkoły Głównej Handlowej w Warszawie (\href{http://www.skni.org/}{SKNI})
 
 \begin{itemize}
-\itemsep1pt\parskip0pt\parsep0pt
+\tightlist
 \item
   Prowadzenie kursów Pythona i MS Access w ramach
-  \href{mailto:Warsztatów@SKNI}{Warsztatów@SKNI}
+  \href{mailto:Warsztatów@SKNI}{\nolinkurl{Warsztatów@SKNI}}
   (\href{http://was.skni.org/}{WAS})
 \item
   Współorganizacja konferencji OpenMind
