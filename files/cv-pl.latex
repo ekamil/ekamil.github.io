@@ -10,11 +10,6 @@ Data urodzenia\strut
 16.03.1990\strut
 \end{minipage}\tabularnewline
 \begin{minipage}[t]{0.25\columnwidth}\raggedright\strut
-Tel.\strut
-\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright\strut
-+48 501 196 255\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.25\columnwidth}\raggedright\strut
 E-mail\strut
 \end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright\strut
 \href{mailto:kamil@essekkat.pl}{\nolinkurl{kamil@essekkat.pl}}\strut
@@ -27,8 +22,8 @@ E-mail\strut
 
 \subsection{Doświadczenie}\label{doux15bwiadczenie}
 
-\textbf{since 05.2016: Clear2Pay Poland} - Non-Functional/Performance
-Engineer
+\textbf{05.2016 - 07.2016: Clear2Pay Poland} -
+Non-Functional/Performance Engineer
 
 \begin{itemize}
 \tightlist

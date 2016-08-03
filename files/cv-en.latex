@@ -10,11 +10,6 @@ Date of birth\strut
 16.03.1990\strut
 \end{minipage}\tabularnewline
 \begin{minipage}[t]{0.25\columnwidth}\raggedright\strut
-Phone\strut
-\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright\strut
-+48 501 196 255\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{0.25\columnwidth}\raggedright\strut
 E-mail\strut
 \end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright\strut
 \href{mailto:kamil@essekkat.pl}{\nolinkurl{kamil@essekkat.pl}}\strut
@@ -27,15 +22,15 @@ Source:
 
 \subsection{Work experience}\label{work-experience}
 
-\textbf{since 05.2016: Clear2Pay Poland} - Non-Functional/Performance
-Engineer
+\textbf{05.2016 - 07.2016: Clear2Pay Poland} -
+Non-Functional/Performance Engineer
 
 \begin{itemize}
 \tightlist
 \item
   Evaluating performance of a Java EE product
 \item
-  Development of internal Java based tools
+  Development of internal, Java based tool
 \end{itemize}
 
 \textbf{05.2014 - 04.2016: Cyfrowy Polsat} -- Software Developer
