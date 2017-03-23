@@ -1,0 +1,211 @@
+\section{Kamil Essekkat}\label{kamil-essekkat}
+
+\subsection{Personal}\label{personal}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+\begin{minipage}[t]{0.25\columnwidth}\raggedright\strut
+Date of birth\strut
+\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright\strut
+16.03.1990\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.25\columnwidth}\raggedright\strut
+E-mail\strut
+\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright\strut
+\href{mailto:kamil@essekkat.pl}{\nolinkurl{kamil@essekkat.pl}}\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+Source:
+\href{http://essekkat.pl/\#cv-en}{\url{http://essekkat.pl/\#cv-en}}
+
+\subsection{Work experience}\label{work-experience}
+
+\textbf{since 09.2016: Webinterpret} - Python Developer
+
+\begin{itemize}
+\tightlist
+\item
+  Development of Python microservices
+\item
+  Mongo DB, Postgres DB
+\item
+  Designing and implementing new services
+\end{itemize}
+
+\textbf{05.2016 - 07.2016: Clear2Pay Poland} -
+Non-Functional/Performance Engineer
+
+\begin{itemize}
+\tightlist
+\item
+  Evaluating performance of a Java EE product
+\item
+  Development of internal, Java based tools for perf. testing
+\end{itemize}
+
+\textbf{05.2014 - 04.2016: Cyfrowy Polsat} -- Software Developer
+
+\begin{enumerate}
+\def\labelenumi{\Alph{enumi}.}
+\item
+  Green-field development of payments gateway for a new VOD portal
+
+  \begin{quote}
+  \begin{itemize}
+  \tightlist
+  \item
+    Initial domain modelling and requirements gathering
+  \item
+    Planning integrations with other systems
+  \item
+    Architecture design and technology decisions
+  \item
+    Major components in stack: Camunda BPM, Spring, Axon Framework,
+    Hibernate
+  \item
+    Introducing BPM software in a team
+  \item
+    Tech leading of a few developers
+  \item
+    Dockerization
+  \end{itemize}
+  \end{quote}
+\item
+  Working on a sizeable Django-based backend
+
+  \begin{quote}
+  \begin{itemize}
+  \tightlist
+  \item
+    Leading the use of Event Sourcing and Domain Driven Design
+  \item
+    Documenting processes in BPMN
+  \item
+    Creating automated tests with SoapUI for JSON-RPC and SOAP
+    interfaces
+  \item
+    Performance tuning of new features - on application and DB levels
+  \item
+    Maintaining quality of the code (unittests, pep8 compliance)
+  \item
+    Streamlining Jenkins CI jobs
+  \item
+    Taking care of current issues on a live system
+  \end{itemize}
+  \end{quote}
+\end{enumerate}
+
+\textbf{10.2010 - 04.2014: Accenture} -- member of Technical
+Architecture Team
+
+\begin{itemize}
+\tightlist
+\item
+  Maintenance and development of project's internal tools (Python, bash)
+\item
+  Extending code deployment tool (Python) integrated with Trac and SVN
+\item
+  Maintenance over applications built upon JBoss and OracleDB stack
+\item
+  Automating tests (GUI and WebService), also within Grinder framework
+\item
+  Setting up test environments and providing support
+\item
+  Gathering performance requirements from business users and processing
+  them into measurable terms
+\item
+  Estimating time and work needed for tests; planning test execution
+\item
+  Manual testing as a prerequisite of automatic tests
+\item
+  Setting up monitoring (snmpd, Zenoss)
+\item
+  Performance tuning of OracleDB (both on query and instance levels) and
+  of JVM
+\item
+  Working closely with Development team on identifying and fixing
+  performance bottlenecks
+\item
+  Reporting tests' results, including writing final reports
+\item
+  Creating build pipelines around Subversion and Jenkins
+\item
+  Integrating OpenLDAP onto existing project's infrastructure with
+  continued service availability
+\item
+  Working closely with Development and Test teams on adjusting the
+  development/release process
+\end{itemize}
+
+\subsection{Education}\label{education}
+
+\begin{description}
+\item[2009 -- 2012]
+Unfinished Bachelor studies at Warsaw School of Economics, Quantitative
+Methods in Economics and Information Systems.
+\item[2006 -- 2009]
+VI High school in Sosnowiec, core subjects: maths, geography
+\end{description}
+
+\subsection{Spoken languages}\label{spoken-languages}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+\begin{minipage}[t]{0.24\columnwidth}\raggedright\strut
+\textbf{Polish}\strut
+\end{minipage} & \begin{minipage}[t]{0.20\columnwidth}\raggedright\strut
+native\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.24\columnwidth}\raggedright\strut
+\textbf{English}\strut
+\end{minipage} & \begin{minipage}[t]{0.20\columnwidth}\raggedright\strut
+fluent\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.24\columnwidth}\raggedright\strut
+\textbf{German}\strut
+\end{minipage} & \begin{minipage}[t]{0.20\columnwidth}\raggedright\strut
+basic\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\subsection{Skills}\label{skills}
+
+\begin{description}
+\item[Programming languages]
+Java, Python, sh, SQL, \href{https://kotlinlang.org/}{Kotlin}
+\item[Notable frameworks]
+\href{http://spring.io/}{Spring},
+\href{http://www.axonframework.org/}{Axon},
+\href{https://camunda.org/}{Camunda},
+\href{https://www.djangoproject.com/}{Django}
+\item[Tools]
+Jira, Git, SVN, \href{https://jenkins.io/}{Jenkins CI},
+\href{http://www.sonarqube.org/}{SonarQube}, Maven, Tox
+\href{https://www.docker.com/}{Docker},
+\href{http://wildfly.org/}{Wildfly}
+\item[Databases]
+PostgreSQL, Oracle, ElasticSearch, Redis
+\item[Load testing]
+SoapUI, \href{http://gatling.io/}{Gatling}, Oracle AWR
+\end{description}
+
+Basic knowledge of \emph{SAP} from operations perspective.
+
+\subsection{Academic activity}\label{academic-activity}
+
+\textbf{2009 - 2010} Activity in Student Association for Computer
+Science at WSE (\href{http://www.skni.org/}{SKNI})
+
+\begin{itemize}
+\tightlist
+\item
+  Co-organisation of the OpenMind conference
+\item
+  Teaching fellow students Python and MS Access as part of
+  \href{http://was.skni.org/}{\href{mailto:Warsztaty@SKNI}{\nolinkurl{Warsztaty@SKNI}}}.
+\item
+  Co-creation of \href{http://www.skni.org/}{SKNI} website (Joomla)
+\end{itemize}

@@ -1,0 +1,177 @@
+\section{Kamil Essekkat}\label{kamil-essekkat}
+
+\subsection{Dane osobowe}\label{dane-osobowe}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+\begin{minipage}[t]{0.25\columnwidth}\raggedright\strut
+Data urodzenia\strut
+\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright\strut
+16.03.1990\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.25\columnwidth}\raggedright\strut
+E-mail\strut
+\end{minipage} & \begin{minipage}[t]{0.68\columnwidth}\raggedright\strut
+\href{mailto:kamil@essekkat.pl}{\nolinkurl{kamil@essekkat.pl}}\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+Źródło:
+\href{http://essekkat.pl/\#cv-pl}{\url{http://essekkat.pl/\#cv-pl}}
+
+\subsection{Doświadczenie}\label{doux15bwiadczenie}
+
+\textbf{od 09.2016: Webinterpret} - Python Developer
+
+\begin{itemize}
+\tightlist
+\item
+  Rozwój i utrzymanie mikroserwisów w Pythonie
+\item
+  Mongo DB, Postgres DB
+\item
+  Projektowanie i implementacja nowych aplikacji
+\end{itemize}
+
+\textbf{05.2016 - 07.2016: Clear2Pay Poland} -
+Non-Functional/Performance Engineer
+
+\begin{itemize}
+\tightlist
+\item
+  Ewaluacja wydajności produktu opartego na Java EE
+\item
+  Rozwój wewnętrznych narzędzi do testów EFF (Java)
+\end{itemize}
+
+\textbf{05.2014 - 04.2016: Cyfrowy Polsat} -- Software Developer
+
+\begin{itemize}
+\tightlist
+\item
+  Planowanie, projektowanie i tworzenie nowej aplikacji do przetwarzania
+  płatności
+\item
+  Integracja z systemami wewnętrznymi i zewnętrznymi
+\item
+  Pilotażowe wdrożenie Event Sourcing i Domain Driven Design
+\item
+  Tworzenie dokumentacji procesów z użyciem BPMN
+\item
+  Automatyzacja testów w SoapUI dla interfejsów SOAP i JSON-RPC
+\item
+  Rozwój i utrzymanie dużego systemu opartego na Django
+\item
+  Tuning wydajności nowych funkcjonalności na poziomie aplikacji i bazy
+\item
+  Utrzymanie jakości kodu (unittesty, pep8)
+\item
+  Utrzymanie Jenkins CI
+\end{itemize}
+
+\textbf{10.2010 - 04.2014: Accenture} -- członek zespołu architektury
+technicznej i infrastruktury
+
+\begin{itemize}
+\tightlist
+\item
+  Rozwój i utrzymanie wewnętrznych narzędzi (Python, bash)
+\item
+  Rozwój wewnętrznego narzędzia deploymentu (Python) zintegrowanego z
+  Subversion i Trac
+\item
+  Automatyzacja testów GUI oraz WebService'ów, również z użyciem Grinder
+\item
+  Nadzór nad aplikacjami opartymi o platformę JBoss i bazę OracleDB
+\item
+  Setup i wsparcie środowisk
+\item
+  Prowadzenie testów wydajnościowych - przygotowanie, automatyzacja,
+  raportowanie
+\item
+  Planowanie i szacowanie czasochłonności testów
+\item
+  Monitoring środowisk (snmpd, Zenoss)
+\item
+  Tuning wydajności bazy danych Oracle (ustawień i zapytań) oraz JVM
+\item
+  Współpraca z innymi zespołami przy identyfikacji i rozwiązywaniu
+  problemów wydajnościowych
+\item
+  Raportowanie wyników i wniosków z testów do zlecających
+\item
+  Integracja zewnętrznych systemów CI, QA z infrastrukturą projektów
+\item
+  Integracja OpenLdap z infrastrukturą projektów
+\end{itemize}
+
+\subsection{Wykształcenie}\label{wyksztaux142cenie}
+
+\begin{description}
+\item[2009 -- 2012]
+Nieukończone studia stacjonarne licencjackie w Szkole Głównej Handlowej
+w Warszawie na kierunku Metody Ilościowe w Ekonomii i Systemy
+Informacyjne
+\item[2006 -- 2009]
+VI Niepubliczne Liceum w Sosnowcu, profil mat.-geo.
+\end{description}
+
+\subsection{Języki obce}\label{jux119zyki-obce}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+\begin{minipage}[t]{0.24\columnwidth}\raggedright\strut
+\textbf{Angielski}\strut
+\end{minipage} & \begin{minipage}[t]{0.20\columnwidth}\raggedright\strut
+biegle\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.24\columnwidth}\raggedright\strut
+\textbf{Niemiecki}\strut
+\end{minipage} & \begin{minipage}[t]{0.20\columnwidth}\raggedright\strut
+podstawowy\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\subsection{Umiejętności}\label{umiejux119tnoux15bci}
+
+\begin{description}
+\item[Języki programowania]
+Java, Python, sh, SQL, \href{https://kotlinlang.org/}{Kotlin}
+\item[Znaczące frameworki]
+\href{http://spring.io/}{Spring},
+\href{http://www.axonframework.org/}{Axon},
+\href{https://camunda.org/}{Camunda},
+\href{https://www.djangoproject.com/}{Django}
+\item[Narzędzia]
+Jira, Git, SVN, \href{https://jenkins.io/}{Jenkins CI},
+\href{http://www.sonarqube.org/}{SonarQube}, Maven, Tox,
+\href{https://www.docker.com/}{Docker},
+\href{http://wildfly.org/}{Wildfly}
+\item[Bazy danych]
+PostgreSQL, Oracle, ElasticSearch, Redis
+\item[Testy wydajnościowe]
+SoapUI, \href{http://gatling.io/}{Gatling}, Oracle AWR
+\end{description}
+
+Podstawowa znajomość \emph{SAP} od strony instalacji i konfiguracji.
+
+\subsection{Działalność
+studencka}\label{dziaux142alnoux15bux107-studencka}
+
+\textbf{2009 -- 2010} Członkostwo w Studenckim Kole Naukowym Informatyki
+Szkoły Głównej Handlowej w Warszawie (\href{http://www.skni.org/}{SKNI})
+
+\begin{itemize}
+\tightlist
+\item
+  Prowadzenie kursów Pythona i MS Access w ramach
+  \href{mailto:Warsztatów@SKNI}{\nolinkurl{Warsztatów@SKNI}}
+  (\href{http://was.skni.org/}{WAS})
+\item
+  Współorganizacja konferencji OpenMind
+\item
+  Współtworzenie strony głównej \href{http://www.skni.org/}{SKNI}
+  (Joomla)
+\end{itemize}
